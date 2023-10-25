@@ -1,3 +1,14 @@
+UPDATE: 鉴于文章比较长，很多同学没有耐心读完，后续也分享录制了一个 [视频版](https://www.bilibili.com/video/BV1EW4y1R7yi/)，基本涵盖了文章里的大部分内容。
+
+另外在健康生活实践方面，也提供一个极简版的基础列表，供大家参考：
+
+- 保持睡眠时长与质量。
+- 不要吸烟。
+- 尽可能每天做点运动。
+- 减少糖分的摄入。
+
+能做到这四点，就已经可以达到一个还不错的健康状态了。剩下的可以根据各自的身体状况再来做补充调整。
+
 # 背景
 
 去年 5 月曾经写了一篇文章介绍了下 [Lex Fridman 大佬的日常生活安排](https://zhuanlan.zhihu.com/p/371254789)，后续我也根据他的方法对自己的日常生活做了一系列规范和改进。这一年整体实行下来，效果还是非常显著的，本文的最后会对我的一些实践以及借助的工具做一些分享。
@@ -64,7 +75,7 @@
 
 ## Fasting 的实践
 
-由于长时间的禁食难度较大，所以绝大多数的研究都专注于间歇性禁食，也就是 time restricted feeding。简单来说就是跟前面的小白鼠实验一样，在一天的固定时间段来吃东西（跟睡眠周期对齐），而其它时间段都不摄入任何食物的做法。这里简单整理为基础和高阶两个版本：
+由于长时间的禁食难度较大，所以绝大多数的研究都专注于间歇性禁食，也就是 intermittent fasting。简单来说就是跟前面的小白鼠实验一样，在一天的固定时间段来吃东西（跟睡眠周期对齐），而其它时间段都不摄入任何食物的做法。这里简单整理为基础和高阶两个版本：
 
 - 基础：如果想享受 fasting 的基础收益，最简单的执行原则是**起床后至少 1 小时内不要吃东西，同时睡前的 2-3 小时不要吃任何东西**。
 - 高阶：目前研究结果中**最理想的进食窗口是 8 小时**，结合社会习俗等，一般比较合理的时间在 10-18 点或 12-20 点的范围。看起来**不吃早饭并不是什么坏事** :)
@@ -291,6 +302,34 @@ Sinclair 也对比了一些上个世纪失败的研究，比如通过抗氧化�
 
 此外 Sinclair 也介绍了一些激动人心的前沿技术，例如**通过基因治疗方法，可以重启我们的 DNA 表达系统**。通过一次注射，可以让盲人恢复视力，这已经在老鼠身上得到了验证。或许几年后，我们可以像死侍那样实现身体各部分的逆转老化。
 
+## 抗衰老手段
+
+先来总览看一下各种抗衰老的手段。
+
+### 饮食
+
+包括食物结构和饮食控制。饮食控制方面前面有提到过，建议缩短进食窗口到 8 小时左右。饮食结构可以参考最新发表在 Cell 上的这篇文章 [Nutrition, longevity and disease: From molecular mechanisms to interventions](https://www.cell.com/cell/pdf/S0092-8674(22)00398-1.pdf)。简单总结一下就是多吃植物类的蛋白（花生，藜麦，豆类，西兰花等），脂肪（橄榄油，坚果，牛油果等），减少精制碳水（白米饭，白面包，蛋糕，饼干等）；动物脂肪，动物蛋白质，糖这些总体来说是加速衰老的。
+
+![长寿饮食建议](imgs/diet_for_longevity.png)
+
+### 体育锻炼
+
+有氧锻炼对心肺功能，血管健康等方面的促进对延寿很有帮助。力量训练也能持续保持我们的肌肉，关节，韧带的力量水平，支撑保护能力等，在年纪大时减少各种跌倒或者受伤的风险。一般建议是一周 3 小时左右的有氧运动，搭配 2 到 3 次的力量训练。有氧运动一般比较简单，跑步，骑车，游泳都可以。力量训练有一定的门槛，个人也最近正在学习一些入门训练方式。
+
+![力量训练计划](imgs/workout_plan.png)
+
+### 药物
+
+药物方面的研究也非常多，不过绝大多数都还在人体实验的早期。具体可以参考发表在 Nature 上的这篇 [The quest to slow ageing through drug discovery](https://www.nature.com/articles/s41573-020-0067-7)，总结了各种相关研究，其中就包括了著名的二甲双胍，NMN 等。
+
+![长寿药物](imgs/drugs_for_longevity.png)
+
+### 细胞重编程
+
+前面也提到了基因表达是影响衰老最重要的因素，那么有没有手段来控制人体细胞的基因表达呢？著名的山中因子（Yamanaka Factors）给出了一种可能。山中伸弥团队发现的诱导方法是，通过慢病毒载体将 Oct4、Sox2、c-Myc、Klf4 四种转录因子基因转入成体细胞，将其转化为类似于胚胎干细胞的多能干细胞（iPS 细胞）。iPS 细胞与胚胎干细胞拥有相似的再生能力，理论上可以分化为成体的所有器官、组织，而这一点完美地对冲了由细胞衰减带来的人体衰老。听起来是不是非常的神奇？基于这些新技术也出现了很多主攻长寿领域的科技创新公司，如 [Life Biosciences](https://www.lifebiosciences.com/)，[Altos Labs](https://altoslabs.com/) 等，我们可以期待一下未来这些技术的普及应用。
+
+![山中因子](imgs/cell_reprogramming.png)
+
 ## 实践
 
 这里列出一些 Sinclair 自己的实践方式，如果想要采纳还是要结合自身的情况来看。有意思的是这集节目下有个热门留言是这个教授竟然已经 52 岁了，完全看不出来……所以你懂的。
@@ -327,13 +366,13 @@ Sinclair 也对比了一些上个世纪失败的研究，比如通过抗氧化�
 
 饮食方面，开始尝试 8 小时进食窗口的 fasting，目前感觉良好。中饭一般吃蔬菜为主的轻食，晚上就比较放飞自我，想吃啥吃啥。早上会看情况喝点盐水，茶或者 AG1 的补充剂。膳食补充剂目前基本只有复合维生素和 EPA 鱼油在使用，后面可以参考下 [Huberman 的“配方”](https://fastlifehacks.com/andrew-huberman-supplements-list/) 增加一些。Huberman 自己也在节目中表示**对白藜芦醇和 NMN 还在观望状态**，我查了些资料发现有争议的地方还不少，所以我个人建议先采纳广受认可和使用的一些补充剂，如 EPA 鱼油，二甲双胍等。个人目前考虑的补充剂列表：
 
-- [基础维生素](https://www.thorne.com/products/dp/basic-nutrients-2-day)，常规补充剂。
-- [Omega-3 EPA](https://www.thorne.com/products/dp/super-epa-sp608nc)。
-- [AG1](https://athleticgreens.com/en)，超火的小绿粉，各种植物提取物 + 各种维生素矿物会，Fridman，Huberman 等大佬的节目里都有提到，就是贵了点。
-- [Betaine HCL & Pepsin](https://www.thorne.com/products/dp/betaine-hcl-pepsin-225-s)，保护肠胃。
+- [基础维生素](https://www.thorne.com/products/dp/basic-nutrients-2-day)，常规补充剂，也可以根据自己的饮食结构，生活习惯选择特定的营养物质补充。
+- [Omega-3 EPA](https://www.thorne.com/products/dp/super-epa-sp608nc)，常年销量靠前的补充剂，好处前面已经说了很多了。
+- [AG1](https://athleticgreens.com/en)，超火的小绿粉，各种植物提取物 + 各种维生素矿物会，Fridman 等大佬的节目里都有提到。个人买了一次，不过看一些其它评测貌似并不是很划得来。
+- [Betaine HCL & Pepsin](https://www.thorne.com/products/dp/betaine-hcl-pepsin-225-s)，保护肠胃，促进吸收。
 - [L-Tyrosine](https://www.thorne.com/products/dp/l-tyrosine)，提升多巴胺，可能会买个尝尝鲜。
-- [二甲双胍](https://zh.m.wikipedia.org/zh/%E4%BA%8C%E7%94%B2%E5%8F%8C%E8%83%8D)，抗衰老“神药”。
-- [ResveraCel](https://www.thorne.com/products/dp/resveracel)，白藜芦醇，NR 等抗衰老组合。
+- [二甲双胍](https://zh.m.wikipedia.org/zh/%E4%BA%8C%E7%94%B2%E5%8F%8C%E8%83%8D)，抗衰老“神药”，不过这个药的有效性和安全性还有争议，建议谨慎。
+- [ResveraCel](https://www.thorne.com/products/dp/resveracel)，白藜芦醇，NR 等抗衰老组合。效果同样有争议，尤其 NMN 这块更是各种产品鱼龙混杂无法分辨，谨慎购入。
 
 很多人都关心 fasting 可能引发胆结石，这里提供一些补充信息：
 
